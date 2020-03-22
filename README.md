@@ -42,6 +42,8 @@ Last update: 3/22/2020
 
 <img src="Scaled Italy Logistic Model, US Data.png" width="400px">
 
+<img src="US Population Scaled S. Korea, China Hubei, and Italy Logistic Models.png" width="400px">
+
 <img src="US Covid cases numbers.png" width="400px">
 
 <img src="US Covid dates.png" width="400px">
