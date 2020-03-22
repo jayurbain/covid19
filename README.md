@@ -1,6 +1,8 @@
 # covid19
 Data science experiments with Johns Hopkins COVID-19 dataset
 
+Jay Urbain, PhD
+
 COVID-19 Logistic Model
 
 References:
@@ -24,25 +26,25 @@ https://www.youtube.com/watch?v=gSqIwXl6IjQ
 
 Last update: 3/22/2020
 
-<img src="logistic_modeling.png" width="400px>
+<img src="logistic_modeling.png" width="400px">
 
-<img src="logistic_function.png" width="400px>
+<img src="logistic_function.png" width="400px">
 
-<img src="Logistic Model South Korea.png" width="400px>
+<img src="Logistic Model South Korea.png" width="400px">
 
-<img src="Scaled S. Korea Logistic Model, US Data.png" width="400px>
+<img src="Scaled S. Korea Logistic Model, US Data.png" width="400px">
 
-<img src="China Hubei Logistic Model.png" width="400px>
+<img src="China Hubei Logistic Model.png" width="400px">
 
-<img src="Scaled China Hubei Logistic Model, US Data.png" width="400px>
+<img src="Scaled China Hubei Logistic Model, US Data.png" width="400px">
 
-<img src="Italy Logistic Model.png" width="400px>
+<img src="Italy Logistic Model.png" width="400px">
 
-<img src="Scaled Italy Logistic Model, US Data.png" width="400px>
+<img src="Scaled Italy Logistic Model, US Data.png" width="400px">
 
-<img src="US Covid cases numbers.png" width="400px>
+<img src="US Covid cases numbers.png" width="400px">
 
-<img src="US Covid dates.png" width="400px>
+<img src="US Covid dates.png" width="400px">
 
 
 
