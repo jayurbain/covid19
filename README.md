@@ -26,9 +26,9 @@ https://www.youtube.com/watch?v=gSqIwXl6IjQ
 
 Last update: 3/22/2020
 
-<img src="logistic_modeling.png" width="400px">
+<img src="logistic_modeling.png" width="600px">
 
-<img src="logistic_function.png" width="400px">
+<img src="logistic_function.png" width="600px">
 
 <img src="Logistic Model South Korea.png" width="400px">
 
