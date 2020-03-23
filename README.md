@@ -26,9 +26,29 @@ https://www.youtube.com/watch?v=gSqIwXl6IjQ
 
 Last update: 3/23/2020
 
-<img src="logistic_modeling.png" width="600px">
+<img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
 
-<img src="logistic_function.png" width="600px">
+> Total US Cases South Korea Model 54450.0
+> 
+> Total US Cases China Hubei Model 296519.0
+> 
+> Total US Cases Italy Model 656261.0
+>
+> US Inflection Date South Korea Model 2020-03-23
+> 
+> US Spread Tail Off Date South Korea Model 2020-05-23
+>
+> US Inflection Date China Hubei Model 2020-04-06
+> 
+> US Spread Tail Off Date China Hubei Model 2020-06-10
+>
+> US Inflection Date Italy Model 2020-04-05
+> 
+> US Inflection Date Italy Model 2020-06-18
+
+<img src="logistic_modeling.png" width="800px">
+
+<img src="logistic_function.png" width="800px">
 
 <img src="Logistic Model South Korea.png" width="600px">
 
@@ -42,20 +62,7 @@ Last update: 3/23/2020
 
 <img src="Scaled Italy Logistic Model, US Data.png" width="600px">
 
-<img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
 
-> Total US Cases South Korea Model 54450.0
-> Total US Cases China Hubei Model 296519.0
-> Total US Cases Italy Model 656261.0
-
-> US Inflection Date South Korea Model 2020-03-23
-> US Spread Tail Off Date South Korea Model 2020-05-23
-
-> US Inflection Date China Hubei Model 2020-04-06
-> US Spread Tail Off Date China Hubei Model 2020-06-10
-
-> US Inflection Date Italy Model 2020-04-05
-> US Inflection Date Italy Model 2020-06-18
 
 
 
