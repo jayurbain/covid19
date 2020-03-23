@@ -26,42 +26,36 @@ https://www.youtube.com/watch?v=gSqIwXl6IjQ
 
 Last update: 3/23/2020
 
-The logistic model has been widely used to describe population growth such as the spread of a virus through the population. 
-
-$$
-f(x,a,b,c) = \dfrac{c}{1 + e^{-(x-b)/a}}
-$$
-
-- $x$ = time (days)
-- $a$ = infection speed
-- $b$ = inflection point (days), day with max rate of new infections 
-- $c$ = total number of recorded infected people at the end
-
-The number of infected people eventually gets close $c$ where the infection has ended. 
-
-The inflection point $b$, is the point at which the rate of infection starts to decrease (max first derivative).
-
-A plot of a generic logistic function is shown below.
+<img src="logistic_modeling.png" width="600px">
 
 <img src="logistic_function.png" width="600px">
 
-<img src="Logistic Model South Korea.png" width="400px">
+<img src="Logistic Model South Korea.png" width="600px">
 
-<img src="Scaled S. Korea Logistic Model, US Data.png" width="400px">
+<img src="Scaled S. Korea Logistic Model, US Data.png" width="600px">
 
-<img src="China Hubei Logistic Model.png" width="400px">
+<img src="China Hubei Logistic Model.png" width="600px">
 
-<img src="Scaled China Hubei Logistic Model, US Data.png" width="400px">
+<img src="Scaled China Hubei Logistic Model, US Data.png" width="600px">
 
-<img src="Italy Logistic Model.png" width="400px">
+<img src="Italy Logistic Model.png" width="600px">
 
-<img src="Scaled Italy Logistic Model, US Data.png" width="400px">
+<img src="Scaled Italy Logistic Model, US Data.png" width="600px">
 
-<img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="600px">
+<img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
 
-<img src="US Covid cases numbers.png" width="400px">
+> Total US Cases South Korea Model 54450.0
+> Total US Cases China Hubei Model 296519.0
+> Total US Cases Italy Model 656261.0
 
-<img src="US Covid dates.png" width="400px">
+> US Inflection Date South Korea Model 2020-03-23
+> US Spread Tail Off Date South Korea Model 2020-05-23
+
+> US Inflection Date China Hubei Model 2020-04-06
+> US Spread Tail Off Date China Hubei Model 2020-06-10
+
+> US Inflection Date Italy Model 2020-04-05
+> US Inflection Date Italy Model 2020-06-18
 
 
 
