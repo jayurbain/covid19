@@ -24,9 +24,24 @@ https://www.youtube.com/watch?v=mCa0JXEwDEk
 Mathematics of the Corona outbreak – with professor Tom Britton
 https://www.youtube.com/watch?v=gSqIwXl6IjQ
 
-Last update: 3/22/2020
+Last update: 3/23/2020
 
-<img src="logistic_modeling.png" width="600px">
+The logistic model has been widely used to describe population growth such as the spread of a virus through the population. 
+
+$$
+f(x,a,b,c) = \dfrac{c}{1 + e^{-(x-b)/a}}
+$$
+
+- $x$ = time (days)
+- $a$ = infection speed
+- $b$ = inflection point (days), day with max rate of new infections 
+- $c$ = total number of recorded infected people at the end
+
+The number of infected people eventually gets close $c$ where the infection has ended. 
+
+The inflection point $b$, is the point at which the rate of infection starts to decrease (max first derivative).
+
+A plot of a generic logistic function is shown below.
 
 <img src="logistic_function.png" width="600px">
 
@@ -42,7 +57,7 @@ Last update: 3/22/2020
 
 <img src="Scaled Italy Logistic Model, US Data.png" width="400px">
 
-<img src="US Population Scaled S. Korea, China Hubei, and Italy Logistic Models.png" width="400px">
+<img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="600px">
 
 <img src="US Covid cases numbers.png" width="400px">
 
