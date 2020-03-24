@@ -22,25 +22,25 @@ Graphing these projections together demonstrates how the U.S. compares to benchm
 <img src="US Logistic Model, US Data.png" width="800px">
 
 #### US Model Stats
-> a = 1.992449043874816 +/- 0.10901005109056824
+> a = 2.7457348369256462 +/- 0.07417778088671104
 > 
-> b = 58.59553015123753 +/- 0.26374194255192546
+> b = 63.26882067961676 +/- 0.5606185271397649
 > 
-> c = 45683.220504305216 +/- 2514.2998715231024
+> c = 144035.6290338129 +/- 18820.155512947473
 > 
-> errors [0.10901005109056824, 0.26374194255192546, 2514.2998715231024]
+> errors [0.07417778088671104, 0.5606185271397649, 18820.155512947473]
 > 
-> Expected number of infected people at infection end: 45683.22 +/- 2514.3
+> Expected number of infected people at infection end: 144035.63 +/- 18820.16
 > 
-> Infection peak in days from start: 58.6 +/- 0.26
+> Infection peak in days from start: 63.27 +/- 0.56
 > 
-> us_inflection_date 2020-03-20T00:00:00.000000000
+> us_inflection_date 2020-03-25T00:00:00.000000000
 > 
-> us_inflection_date_string 2020-03-20
+> us_inflection_date_string 2020-03-25
 > 
-> days end 82
+> days end 97
 > 
-> infection_end_date_string 2020-04-13
+> infection_end_date_string 2020-06-02
 
 #### S. Korea, China Hubei, and Italy Models Scaled for US Population
 
