@@ -5,6 +5,49 @@ Jay Urbain, PhD
 
 COVID-19 Logistic Model
 
+Last update: 3/23/2020
+
+The logistic function has been widely used to describe population growth such as the spread of a virus through the population.
+
+The spread of a pathogen can start out slowly, but as larger numbers of the susceptible population become infected, the number of infected experiences exponential growth. Eventually this growth levels off as the size of the susceptible population decreases and the populations of the infected and recovered increase.
+
+Data from the reference regions (Italy, South Korea, and Hubei province China) are each fitted with a logistic function beginning on the day of the 100th confirmed case in that country.  
+
+The models for the three countries are then scaled to the U.S. population and aligned along the time-axis to best fit the US data for total confirmed cases.  
+
+Graphing these projections together demonstrates how the U.S. compares to benchmark regions, to help give more clarity in what the U.S. path going forward might look like.
+
+<img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
+
+<img src="US Logistic Model, US Data.png" width="800px">
+
+> US Inflection Date South Korea Model 2020-03-23
+> US Spread Tail Off Date South Korea Model 2020-05-23
+> 
+> US Inflection Date China Hubei Model 2020-04-01
+> 
+> US Spread Tail Off Date China Hubei Model 2020-06-10
+> 
+> US Inflection Date Italy Model 2020-04-03
+> 
+> US Inflection Date Italy Model 2020-06-14
+
+<img src="logistic_modeling.png" width="800px">
+
+<img src="logistic_function.png" width="800px">
+
+<img src="Logistic Model South Korea.png" width="600px">
+
+<img src="Scaled S. Korea Logistic Model, US Data.png" width="600px">
+
+<img src="China Hubei Logistic Model.png" width="600px">
+
+<img src="Scaled China Hubei Logistic Model, US Data.png" width="600px">
+
+<img src="Italy Logistic Model.png" width="600px">
+
+<img src="Scaled Italy Logistic Model, US Data.png" width="600px">
+
 References:
 
 Interview Ari Libsker, Corona Is Slowing Down, Humanity Will Survive, Says Biophysicist Michael Levitt, 3/13/20.
@@ -23,46 +66,6 @@ https://www.youtube.com/watch?v=mCa0JXEwDEk
 
 Mathematics of the Corona outbreak – with professor Tom Britton
 https://www.youtube.com/watch?v=gSqIwXl6IjQ
-
-Last update: 3/23/2020
-
-<img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
-
-> Total US Cases South Korea Model 54450.0
-> 
-> Total US Cases China Hubei Model 296519.0
-> 
-> Total US Cases Italy Model 656261.0
->
-> US Inflection Date South Korea Model 2020-03-23
-> 
-> US Spread Tail Off Date South Korea Model 2020-05-23
->
-> US Inflection Date China Hubei Model 2020-04-06
-> 
-> US Spread Tail Off Date China Hubei Model 2020-06-10
->
-> US Inflection Date Italy Model 2020-04-05
-> 
-> US Inflection Date Italy Model 2020-06-18
-
-<img src="logistic_modeling.png" width="800px">
-
-<img src="logistic_function.png" width="800px">
-
-<img src="Logistic Model South Korea.png" width="600px">
-
-<img src="Scaled S. Korea Logistic Model, US Data.png" width="600px">
-
-<img src="China Hubei Logistic Model.png" width="600px">
-
-<img src="Scaled China Hubei Logistic Model, US Data.png" width="600px">
-
-<img src="Italy Logistic Model.png" width="600px">
-
-<img src="Scaled Italy Logistic Model, US Data.png" width="600px">
-
-
 
 
 
