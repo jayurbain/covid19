@@ -42,11 +42,11 @@ Graphing these projections together demonstrates how the U.S. compares to benchm
 
 #### S. Korea Logistic Model, South Korea Data
 
-<img src="Logistic Model South Korea.png" width="800px">
+<img src="Logistic Model South Korea.png" width="600px">
 
 #### S. Korea Piecewise Logistic-Quadratic Model, South Korea Data
 
-<img src="Piecewise Logistic-Quadratic Model South Korea.png" width="800px">
+<img src="Piecewise Logistic-Quadratic Model South Korea.png" width="600px">
 
 #### S. Korea, China Hubei, and Italy Models Scaled for US Population
 
