@@ -5,7 +5,7 @@ Jay Urbain, PhD
 
 COVID-19 Logistic Model
 
-Last update: 3/23/2020
+Last update: 3/25/2020
 
 The logistic function has been widely used to describe population growth such as the spread of a virus through the population.
 
@@ -22,39 +22,28 @@ Graphing these projections together demonstrates how the U.S. compares to benchm
 <img src="US Logistic Model, US Data.png" width="800px">
 
 #### US Model Stats
-> a = 2.7457348369256462 +/- 0.07417778088671104
+> a = 2.628809337950645 +/- 0.054813613261587894
 > 
-> b = 63.26882067961676 +/- 0.5606185271397649
 > 
-> c = 144035.6290338129 +/- 18820.155512947473
+> b = 62.3277521558533 +/- 0.26525421817170247
 > 
-> errors [0.07417778088671104, 0.5606185271397649, 18820.155512947473]
+> c = 115146.14962413454 +/- 6373.962413292967
 > 
-> Expected number of infected people at infection end: 144035.63 +/- 18820.16
+> errors [0.054813613261587894, 0.26525421817170247, 6373.962413292967]
 > 
-> Infection peak in days from start: 63.27 +/- 0.56
+> Expected number of infected people at infection end: 115146.15 +/- 6373.
 > 
-> us_inflection_date 2020-03-25T00:00:00.000000000
+> Infection peak in days from start: 62.33 +/- 0.27
 > 
-> us_inflection_date_string 2020-03-25
+> us_inflection_date 2020-03-24T00:00:00.000000000
+> 
+> us_inflection_date_string 2020-03-24
 > 
 > days end 97
 > 
-> infection_end_date_string 2020-06-02
+> infection_end_date_string 2020-05-24
 
 #### S. Korea, China Hubei, and Italy Models Scaled for US Population
-
-> US Inflection Date South Korea Model 2020-03-23
-> 
-> US Spread Tail Off Date South Korea Model 2020-05-23
-> 
-> US Inflection Date China Hubei Model 2020-04-01
-> 
-> US Spread Tail Off Date China Hubei Model 2020-06-10
-> 
-> US Inflection Date Italy Model 2020-04-03
-> 
-> US Inflection Date Italy Model 2020-06-14
 
 <img src="logistic_modeling.png" width="800px">
 
