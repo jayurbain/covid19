@@ -22,7 +22,6 @@ Graphing these projections together demonstrates how the U.S. compares to benchm
 #### US Model Stats
 > a = 2.628809337950645 +/- 0.054813613261587894
 > 
-> 
 > b = 62.3277521558533 +/- 0.26525421817170247
 > 
 > c = 115146.14962413454 +/- 6373.962413292967
@@ -40,6 +39,14 @@ Graphing these projections together demonstrates how the U.S. compares to benchm
 > days end 97
 > 
 > infection_end_date_string 2020-05-24
+
+#### S. Korea Logistic Model, South Korea Data
+
+<img src="Logistic Model South Korea.png" width="800px">
+
+#### S. Korea Piecewise Logistic-Quadratic Model, South Korea Data
+
+<img src="Piecewise Logistic-Quadratic Model South Korea.png" width="800px">
 
 #### S. Korea, China Hubei, and Italy Models Scaled for US Population
 
