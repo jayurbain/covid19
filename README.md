@@ -1,9 +1,11 @@
 # covid19
 Data science experiments with Johns Hopkins COVID-19 dataset
 
-COVID-19 Logistic Model
+## COVID-19 Logistic Model
 
-Last update: 3/25/2020
+Jay Urbain, PhD
+
+Last update: 3/26/2020
 
 The logistic function has been widely used to describe population growth such as the spread of a virus through the population.
 
@@ -17,7 +19,11 @@ Graphing these projections together demonstrates how the U.S. compares to benchm
 
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
 
-<img src="US Logistic Model, US Data.png" width="800px">
+<img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories 03252020.png" width="800px">
+
+<img src="US Logistic Model, US Data 03252020.png" width="800px">
+
+<img src="US Logistic Model, US Data 03252020.png" width="800px">
 
 #### US Model Stats
 > a = 2.628809337950645 +/- 0.054813613261587894
