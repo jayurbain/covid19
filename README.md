@@ -17,15 +17,42 @@ The models for the three countries are then scaled to the U.S. population and al
 
 Graphing these projections together demonstrates how the U.S. compares to benchmark regions, to help give more clarity in what the U.S. path going forward might look like.
 
+#### Model Trajectories - includes data up to an including 2/25/2020
+
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
+
+#### Model Trajectories - includes data up to an including 2/24/2020
 
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories 03252020.png" width="800px">
 
-<img src="US Logistic Model, US Data 03252020.png" width="800px">
+#### US Model Stats - includes data up to an including 2/25/2020
+
+<img src="US Logistic Model, US Data.png" width="800px">
+
+> a = 2.6724994941322335 +/- 0.043439387721813404
+> 
+> b = 62.59048640008561 +/- 0.17957669530773676
+> 
+> c = 121934.80079409147 +/- 4234.752473391259
+> 
+> errors [0.043439387721813404, 0.17957669530773676, 4234.752473391259]
+> 
+> Expected number of infected people at infection end: 121934.8 +/- 4234.75
+> 
+> Infection peak in days from start: 62.59 +/- 0.18
+> 
+> us_inflection_date 2020-03-24T00:00:00.000000000
+> 
+> us_inflection_date_string 2020-03-24
+> 
+> days end 94
+> 
+> infection_end_date_string 2020-05-25
+
+#### US Model Stats - includes data up to an including 2/24/2020
 
 <img src="US Logistic Model, US Data 03252020.png" width="800px">
 
-#### US Model Stats
 > a = 2.628809337950645 +/- 0.054813613261587894
 > 
 > b = 62.3277521558533 +/- 0.26525421817170247
