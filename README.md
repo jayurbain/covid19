@@ -46,6 +46,36 @@ Graphing these projections together demonstrates how the U.S. compares to benchm
 
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
 
+#### Model Trajectories - includes data up to an including 2/24/2020
+
+<img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories 03252020.png" width="800px">
+
+#### S. Korea Logistic Model, South Korea Data
+
+<img src="Logistic Model South Korea.png" width="600px">
+
+#### S. Korea Piecewise Logistic-Quadratic Model, South Korea Data
+
+<img src="Piecewise Logistic-Quadratic Model South Korea.png" width="600px">
+
+#### S. Korea, China Hubei, and Italy Models Scaled for US Population
+
+<img src="logistic_modeling.png" width="800px">
+
+<img src="logistic_function.png" width="800px">
+
+<img src="Logistic Model South Korea.png" width="600px">
+
+<img src="Scaled S. Korea Logistic Model, US Data.png" width="600px">
+
+<img src="China Hubei Logistic Model.png" width="600px">
+
+<img src="Scaled China Hubei Logistic Model, US Data.png" width="600px">
+
+<img src="Italy Logistic Model.png" width="600px">
+
+<img src="Scaled Italy Logistic Model, US Data.png" width="600px">
+
 References:
 
 Interview Ari Libsker, Corona Is Slowing Down, Humanity Will Survive, Says Biophysicist Michael Levitt, 3/13/20.
