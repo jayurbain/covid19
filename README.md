@@ -9,7 +9,9 @@ Last update: 3/26/2020
 
 The logistic function has been widely used to describe population growth such as the spread of a virus through the population.
 
-<img src="Italy Logistic Model.png" width="600px">
+<img src="logistic_modeling.png" width="800px">
+
+<img src="logistic_function.png" width="800px">
 
 The spread of a pathogen can start out slowly, but as larger numbers of the susceptible population become infected, the number of infected experiences exponential growth. Eventually this growth levels off as the size of the susceptible population decreases and the populations of the infected and recovered increase.
 
@@ -58,10 +60,6 @@ Graphing these projections together demonstrates how the U.S. compares to benchm
 
 #### S. Korea, China Hubei, and Italy Models Scaled for US Population
 
-<img src="logistic_modeling.png" width="800px">
-
-<img src="logistic_function.png" width="800px">
-
 <img src="Logistic Model South Korea.png" width="600px">
 
 <img src="Scaled S. Korea Logistic Model, US Data.png" width="600px">
@@ -69,6 +67,8 @@ Graphing these projections together demonstrates how the U.S. compares to benchm
 <img src="China Hubei Logistic Model.png" width="600px">
 
 <img src="Scaled China Hubei Logistic Model, US Data.png" width="600px">
+
+<img src="Italy Logistic Model.png" width="600px">
 
 <img src="Scaled Italy Logistic Model, US Data.png" width="600px">
 
