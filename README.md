@@ -42,13 +42,9 @@ The models for the three countries are then scaled to the U.S. population and al
 
 Graphing these projections together demonstrates how the U.S. compares to benchmark regions, to help give more clarity in what the U.S. path going forward might look like.
 
-#### Model Trajectories - includes data up to an including 2/25/2020
+#### Model Trajectories - includes data up to an including 2/26/2020
 
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
-
-#### Model Trajectories - includes data up to an including 2/24/2020
-
-<img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories 03252020.png" width="800px">
 
 #### S. Korea Logistic Model, South Korea Data
 
