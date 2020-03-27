@@ -11,6 +11,31 @@ The logistic function has been widely used to describe population growth such as
 
 The spread of a pathogen can start out slowly, but as larger numbers of the susceptible population become infected, the number of infected experiences exponential growth. Eventually this growth levels off as the size of the susceptible population decreases and the populations of the infected and recovered increase.
 
+#### US Model Stats - includes data up to an including 2/26/2020
+
+<img src="US Logistic Model, US Data.png" width="800px">
+
+> a = 2.9807672688165514 +/- 0.062400293161278486
+> 
+> b = 64.47652180494909 +/- 0.3110206724571872
+> 
+> c = 179433.84849847297 +/- 10388.850161718614
+> 
+> errors [0.062400293161278486, 0.3110206724571872, 10388.850161718614]
+> 
+> Expected number of infected people at infection end: 179433.85 +/- 10388.85
+> 
+> Infection peak in days from start: 64.48 +/- 0.31
+> 
+> us_inflection_date 2020-03-26T00:00:00.000000000
+> 
+> us_inflection_date_string 2020-03-26
+> 
+> days end 101
+> 
+> infection_end_date_string 2020-05-20
+
+
 Data from the reference regions (Italy, South Korea, and Hubei province China) are each fitted with a logistic function beginning on the day of the 100th confirmed case in that country.  
 
 The models for the three countries are then scaled to the U.S. population and aligned along the time-axis to best fit the US data for total confirmed cases.  
@@ -24,80 +49,6 @@ Graphing these projections together demonstrates how the U.S. compares to benchm
 #### Model Trajectories - includes data up to an including 2/24/2020
 
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories 03252020.png" width="800px">
-
-#### US Model Stats - includes data up to an including 2/25/2020
-
-<img src="US Logistic Model, US Data.png" width="800px">
-
-> a = 2.6724994941322335 +/- 0.043439387721813404
-> 
-> b = 62.59048640008561 +/- 0.17957669530773676
-> 
-> c = 121934.80079409147 +/- 4234.752473391259
-> 
-> errors [0.043439387721813404, 0.17957669530773676, 4234.752473391259]
-> 
-> Expected number of infected people at infection end: 121934.8 +/- 4234.75
-> 
-> Infection peak in days from start: 62.59 +/- 0.18
-> 
-> us_inflection_date 2020-03-24T00:00:00.000000000
-> 
-> us_inflection_date_string 2020-03-24
-> 
-> days end 94
-> 
-> infection_end_date_string 2020-05-25
-
-#### US Model Stats - includes data up to an including 2/24/2020
-
-<img src="US Logistic Model, US Data 03252020.png" width="800px">
-
-> a = 2.628809337950645 +/- 0.054813613261587894
-> 
-> b = 62.3277521558533 +/- 0.26525421817170247
-> 
-> c = 115146.14962413454 +/- 6373.962413292967
-> 
-> errors [0.054813613261587894, 0.26525421817170247, 6373.962413292967]
-> 
-> Expected number of infected people at infection end: 115146.15 +/- 6373.
-> 
-> Infection peak in days from start: 62.33 +/- 0.27
-> 
-> us_inflection_date 2020-03-24T00:00:00.000000000
-> 
-> us_inflection_date_string 2020-03-24
-> 
-> days end 97
-> 
-> infection_end_date_string 2020-05-24
-
-#### S. Korea Logistic Model, South Korea Data
-
-<img src="Logistic Model South Korea.png" width="600px">
-
-#### S. Korea Piecewise Logistic-Quadratic Model, South Korea Data
-
-<img src="Piecewise Logistic-Quadratic Model South Korea.png" width="600px">
-
-#### S. Korea, China Hubei, and Italy Models Scaled for US Population
-
-<img src="logistic_modeling.png" width="800px">
-
-<img src="logistic_function.png" width="800px">
-
-<img src="Logistic Model South Korea.png" width="600px">
-
-<img src="Scaled S. Korea Logistic Model, US Data.png" width="600px">
-
-<img src="China Hubei Logistic Model.png" width="600px">
-
-<img src="Scaled China Hubei Logistic Model, US Data.png" width="600px">
-
-<img src="Italy Logistic Model.png" width="600px">
-
-<img src="Scaled Italy Logistic Model, US Data.png" width="600px">
 
 References:
 
