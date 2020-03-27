@@ -1,11 +1,10 @@
-# covid19
-Data science experiments with Johns Hopkins COVID-19 dataset
-
 ## COVID-19 Logistic Model
+
+Data science experiments with Johns Hopkins COVID-19 dataset
 
 Jay Urbain, PhD
 
-Last update: 3/26/2020
+Last update: 3/27/2020
 
 <img src="logistic_modeling.png" width="800px">
 
