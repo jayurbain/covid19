@@ -46,10 +46,6 @@ Graphing these projections together demonstrates how the U.S. compares to benchm
 
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
 
-#### Model Trajectories - includes data up to an including 2/24/2020
-
-<img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories 03252020.png" width="800px">
-
 References:
 
 Interview Ari Libsker, Corona Is Slowing Down, Humanity Will Survive, Says Biophysicist Michael Levitt, 3/13/20.
