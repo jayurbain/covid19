@@ -7,8 +7,6 @@ Jay Urbain, PhD
 
 Last update: 3/26/2020
 
-The logistic function has been widely used to describe population growth such as the spread of a virus through the population.
-
 <img src="logistic_modeling.png" width="800px">
 
 <img src="logistic_function.png" width="800px">
@@ -49,10 +47,6 @@ Graphing these projections together demonstrates how the U.S. compares to benchm
 #### Model Trajectories - includes data up to an including 2/26/2020
 
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
-
-#### S. Korea Logistic Model, South Korea Data
-
-<img src="Logistic Model South Korea.png" width="600px">
 
 #### S. Korea Piecewise Logistic-Quadratic Model, South Korea Data
 
