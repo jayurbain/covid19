@@ -4,7 +4,7 @@ Data science experiments with Johns Hopkins COVID-19 dataset
 
 Jay Urbain, PhD
 
-Last update: 3/27/2020
+Last update: 3/28/2020
 
 <img src="logistic_modeling.png" width="800px">
 
@@ -12,7 +12,7 @@ Last update: 3/27/2020
 
 The spread of a pathogen can start out slowly, but as larger numbers of the susceptible population become infected, the number of infected experiences exponential growth. Eventually this growth levels off as the size of the susceptible population decreases and the populations of the infected and recovered increase.
 
-#### US Model Stats - includes data up to an including 2/26/2020
+#### US Model Stats - includes data up to an including 2/27/2020
 
 <img src="US Logistic Model, US Data.png" width="800px">
 
