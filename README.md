@@ -29,25 +29,25 @@ to be highly variable.
 
 <img src="US Logistic Model, US Data.png" width="800px">
 
-> a = 2.9807672688165514 +/- 0.062400293161278486
+> a = 3.126678222325493 +/- 0.056963929470509406
 > 
-> b = 64.47652180494909 +/- 0.3110206724571872
+> b = 65.47011084324983 +/- 0.2832295303932882
 > 
-> c = 179433.84849847297 +/- 10388.850161718614
+> c = 218174.52841246163 +/- 10957.923655202188
 > 
-> errors [0.062400293161278486, 0.3110206724571872, 10388.850161718614]
+> errors [0.056963929470509406, 0.2832295303932882, 10957.923655202188]
 > 
-> Expected number of infected people at infection end: 179433.85 +/- 10388.85
+> Expected number of infected people at infection end: 218174.53 +/- 10957.92
 > 
-> Infection peak in days from start: 64.48 +/- 0.31
+> Infection peak in days from start: 65.47 +/- 0.28
 > 
-> us_inflection_date 2020-03-26T00:00:00.000000000
+> us_inflection_date 2020-03-27T00:00:00.000000000
 > 
-> us_inflection_date_string 2020-03-26
+> us_inflection_date_string 2020-03-27
 > 
-> days end 101
+> days end 105
 > 
-> infection_end_date_string 2020-05-20
+> infection_end_date_string 2020-05-22
 
 
 #### S. Korea Piecewise Logistic-Quadratic Model, South Korea Data
