@@ -12,7 +12,20 @@ Last update: 3/28/2020
 
 The spread of a pathogen can start out slowly, but as larger numbers of the susceptible population become infected, the number of infected experiences exponential growth. Eventually this growth levels off as the size of the susceptible population decreases and the populations of the infected and recovered increase.
 
+Data from the reference regions (Italy, South Korea, and Hubei province China) are each fitted with a logistic function beginning on the day of the 100th confirmed case in that country.  
+
+The models for the three countries are then scaled to the U.S. population and aligned along the time-axis to best fit the US data for total confirmed cases.  
+
+Graphing these projections together demonstrates how the U.S. compares to benchmark regions, to help give more clarity in what the U.S. path going forward might look like.
+
+#### Model Trajectories - includes data up to an including 2/26/2020
+
+<img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
+
 #### US Model Stats - includes data up to an including 2/27/2020
+
+The US has not yet reached an inflection point, so the model is likely
+to be highly variable.
 
 <img src="US Logistic Model, US Data.png" width="800px">
 
@@ -36,16 +49,6 @@ The spread of a pathogen can start out slowly, but as larger numbers of the susc
 > 
 > infection_end_date_string 2020-05-20
 
-
-Data from the reference regions (Italy, South Korea, and Hubei province China) are each fitted with a logistic function beginning on the day of the 100th confirmed case in that country.  
-
-The models for the three countries are then scaled to the U.S. population and aligned along the time-axis to best fit the US data for total confirmed cases.  
-
-Graphing these projections together demonstrates how the U.S. compares to benchmark regions, to help give more clarity in what the U.S. path going forward might look like.
-
-#### Model Trajectories - includes data up to an including 2/26/2020
-
-<img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
 
 #### S. Korea Piecewise Logistic-Quadratic Model, South Korea Data
 
