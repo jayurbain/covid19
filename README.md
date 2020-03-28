@@ -24,7 +24,7 @@ Graphing these projections together demonstrates how the U.S. compares to benchm
 
 #### US Model Stats - includes data up to an including 2/27/2020
 
-The US has not yet reached an inflection point, so the model is likely
+The US has not clearly passed an inflection point, so the model is likely
 to be highly variable.
 
 <img src="US Logistic Model, US Data.png" width="800px">
