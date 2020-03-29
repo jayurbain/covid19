@@ -4,7 +4,7 @@ Data science experiments with Johns Hopkins COVID-19 dataset
 
 Jay Urbain, PhD
 
-Last update: 3/28/2020
+Last update: 3/29/2020
 
 <img src="logistic_modeling.png" width="800px">
 
@@ -18,37 +18,40 @@ The models for the three countries are then scaled to the U.S. population and al
 
 Graphing these projections together demonstrates how the U.S. compares to benchmark regions, to help give more clarity in what the U.S. path going forward might look like.
 
-#### Model Trajectories - includes data up to an including 2/26/2020
+#### Model Trajectories - includes data up to an including 2/28/2020
 
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
 
-#### US Model Stats - includes data up to an including 2/27/2020
+#### US Model Stats - includes data up to an including 2/28/2020
 
 The US has not clearly passed an inflection point, so the model is likely
 to be highly variable.
 
 <img src="US Logistic Model, US Data.png" width="800px">
 
-> a = 3.126678222325493 +/- 0.056963929470509406
+> a = 3.2202153276482806 +/- 0.04958825488971595
 > 
-> b = 65.47011084324983 +/- 0.2832295303932882
+> b = 66.09024224828492 +/- 0.23000490120678818
 > 
-> c = 218174.52841246163 +/- 10957.923655202188
+> c = 245063.0879637316 +/- 9457.788474062014
 > 
-> errors [0.056963929470509406, 0.2832295303932882, 10957.923655202188]
+> errors [0.04958825488971595, 0.23000490120678818, 9457.788474062014]
 > 
-> Expected number of infected people at infection end: 218174.53 +/- 10957.92
+> Expected number of infected people at infection end: 245063.09 +/- 9457.79
 > 
-> Infection peak in days from start: 65.47 +/- 0.28
+> Infection peak in days from start: 66.09 +/- 0.23
 > 
-> us_inflection_date 2020-03-27T00:00:00.000000000
+> us_inflection_date 2020-03-28T00:00:00.000000000
 > 
-> us_inflection_date_string 2020-03-27
+> us_inflection_date_string 2020-03-28
 > 
-> days end 105
+> days end 113
 > 
-> infection_end_date_string 2020-05-22
+> infection_end_date_string 2020-05-28
 
+#### Daily Percent Change in US Cases
+
+<img src='Percent Change US Cases.png' width="600px">
 
 #### S. Korea Piecewise Logistic-Quadratic Model, South Korea Data
 
