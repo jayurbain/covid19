@@ -4,7 +4,7 @@ Data science experiments with Johns Hopkins COVID-19 dataset
 
 Jay Urbain, PhD
 
-Last update: 3/29/2020
+Last update: 3/30/2020
 
 <img src="logistic_modeling.png" width="800px">
 
@@ -18,38 +18,41 @@ The models for the three countries are then scaled to the U.S. population and al
 
 Graphing these projections together demonstrates how the U.S. compares to benchmark regions, to help give more clarity in what the U.S. path going forward might look like.
 
-#### Model Trajectories - includes data up to an including 2/28/2020
+#### Model Trajectories - includes data up to an including 2/29/2020
 
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
 
-#### US Model Stats - includes data up to an including 2/28/2020
+#### US Model Stats - includes data up to an including 2/29/2020
 
-The US has not clearly passed an inflection point, so the model is likely
-to be highly variable.
+It is not clear that the US has passed an inflection point, so expect the model to be highly variable.
 
 <img src="US Logistic Model, US Data.png" width="800px">
 
-> a = 3.2202153276482806 +/- 0.04958825488971595
+> a = 3.2487930352318797 +/- 0.040871327398144745
 > 
-> b = 66.09024224828492 +/- 0.23000490120678818
+> b = 66.26169697135619 +/- 0.16437489028575922
 > 
-> c = 245063.0879637316 +/- 9457.788474062014
+> c = 252625.97324008017 +/- 6540.275579961202
 > 
-> errors [0.04958825488971595, 0.23000490120678818, 9457.788474062014]
+> errors [0.040871327398144745, 0.16437489028575922, 6540.275579961202]
+> Expected number of infected people at infection end: 252625.97 +/- 6540.> 
+> 28
 > 
-> Expected number of infected people at infection end: 245063.09 +/- 9457.79
-> 
-> Infection peak in days from start: 66.09 +/- 0.23
+> Infection peak in days from start: 66.26 +/- 0.16
 > 
 > us_inflection_date 2020-03-28T00:00:00.000000000
 > 
 > us_inflection_date_string 2020-03-28
 > 
-> days end 113
+> days end 106
 > 
-> infection_end_date_string 2020-05-28
+> infection_end_date_string 2020-05-31
 
 #### Daily Percent Change in US Cases
+
+On the positive side, the percent change in US cases has been steadily 
+decreasing. When this value goes below zero, the number of new cases 
+reported each day will start to decrease.
 
 <img src='Percent Change US Cases.png' width="600px">
 
