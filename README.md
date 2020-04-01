@@ -26,7 +26,7 @@ Graphing these projections together demonstrates how the U.S. compares to benchm
 
 It is not clear that the US has passed an inflection point, so expect the model to be highly variable.
 
-<img src="US Logistic Model, US Data.png" width="800px">
+<img src="US Logistic Model, US Data composite.png" width="800px">
 
 > a = 3.4648473720579407 +/- 0.044753687252991545
 > 
