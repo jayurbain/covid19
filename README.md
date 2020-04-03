@@ -4,7 +4,7 @@ Data science experiments with Johns Hopkins COVID-19 dataset
 
 Jay Urbain, PhD
 
-Last update: 4/2/2020
+Last update: 4/3/2020
 
 <img src="logistic_modeling.png" width="800px">
 
@@ -18,27 +18,27 @@ The models for the three countries are then scaled to the U.S. population and al
 
 Graphing these projections together demonstrates how the U.S. compares to benchmark regions, to help give more clarity in what the U.S. path going forward might look like.
 
-#### Model Trajectories - includes data up to an including 4/1/2020
+#### Model Trajectories - includes data up to an including 4/2/2020
 
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
 
-#### US Model Stats - includes data up to an including 4/1/2020
+#### US Model Stats - includes data up to an including 4/2/2020
 
 It is not clear that the US has passed an inflection point, so expect the model to be highly variable.
 
 <img src="US Logistic Model, US Data composite.png" width="800px">
 
-> a = 3.60193320147194 +/- 0.04779200613783079
+> a = 3.7873298862332394 +/- 0.05716664326974287
 > 
-> b = 68.01826388713043 +/- 0.1631900690005954
+> b = 68.90518257893726 +/- 0.19545943222578657
 > 
-> c = 332229.26991267997 +/- 7223.41449120084
+> c = 376752.7330294543 +/- 9336.67688354941
 > 
-> errors [0.04779200613783079, 0.1631900690005954, 7223.41449120084]
+> errors [0.05716664326974287, 0.19545943222578657, 9336.67688354941]
 > 
-> Expected number of infected people at infection end: 332229.27 +/- 0.16
+> Expected number of infected people at infection end: 376752.73 +/- 0.2
 > 
-> Infection peak in days from start: 68.02 +/- 0.16
+> Infection peak in days from start: 68.91 +/- 0.2
 > 
 > us_inflection_date 2020-03-30T00:00:00.000000000
 > 
@@ -46,7 +46,7 @@ It is not clear that the US has passed an inflection point, so expect the model 
 > 
 > days end 118
 > 
-> infection_end_date_string 2020-06-17
+> infection_end_date_string 2020-06-05
 
 #### Daily Percent Change in US Cases
 
