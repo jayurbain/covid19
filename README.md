@@ -28,25 +28,25 @@ It is not clear that the US has passed an inflection point, so expect the model 
 
 <img src="US Logistic Model, US Data composite.png" width="800px">
 
-> a = 3.9830948743345918 +/- 0.06577803787995494
+> a = 4.1617676275288975 +/- 0.07052170885209395
 > 
-> b = 69.8485372766098 +/- 0.2270032648958174
+> b = 70.71491085161139 +/- 0.24282604356708068
 > 
-> c = 427954.9561597545 +/- 11756.101585682725
+> c = 478593.15395591676 +/- 13448.519062152924
 > 
-> errors [0.06577803787995494, 0.2270032648958174, 11756.101585682725]
+> errors [0.07052170885209395, 0.24282604356708068, 13448.519062152924]
 > 
-> Expected number of infected people at infection end: 427954.96 +/- 0.23
+> Expected number of infected people at infection end: 478593.15 +/- 0.24
 > 
-> Infection peak in days from start: 69.85 +/- 0.23
+> Infection peak in days from start: 70.71 +/- 0.24
 > 
-> us_inflection_date 2020-03-31T00:00:00.000000000
+> us_inflection_date 2020-04-01T00:00:00.000000000
 > 
-> us_inflection_date_string 2020-03-31
+> us_inflection_date_string 2020-04-01
 > 
-> days end 121
+> days end 132
 > 
-> infection_end_date_string 2020-05-31
+> infection_end_date_string 2020-06-15
 
 #### Daily Percent Change in US Cases
 
