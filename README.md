@@ -4,7 +4,7 @@ Data science experiments with Johns Hopkins COVID-19 dataset
 
 Jay Urbain, PhD
 
-Last update: 4/4/2020
+Last update: 4/5/2020
 
 <img src="logistic_modeling.png" width="800px">
 
@@ -18,11 +18,11 @@ The models for the three countries are then scaled to the U.S. population and al
 
 Graphing these projections together demonstrates how the U.S. compares to benchmark regions, to help give more clarity in what the U.S. path going forward might look like.
 
-#### Model Trajectories - includes data up to an including 4/3/2020
+#### Model Trajectories - includes data up to an including 4/4/2020
 
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
 
-#### US Model Stats - includes data up to an including 4/3/2020
+#### US Model Stats - includes data up to an including 4/4/2020
 
 It is not clear that the US has passed an inflection point, so expect the model to be highly variable.
 
