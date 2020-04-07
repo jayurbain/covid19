@@ -4,7 +4,7 @@ Data science experiments with Johns Hopkins COVID-19 dataset
 
 Jay Urbain, PhD
 
-Last update: 4/6/2020
+Last update: 4/7/2020
 
 <img src="logistic_modeling.png" width="800px">
 
@@ -18,36 +18,35 @@ The models for the three countries are then scaled to the U.S. population and al
 
 Graphing these projections together demonstrates how the U.S. compares to benchmark regions, to help give more clarity in what the U.S. path going forward might look like.
 
-#### Model Trajectories - includes data up to an including 4/5/2020
+#### Model Trajectories - includes data up to an including 4/6/2020
 
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
 
-#### US Model Stats - includes data up to an including 4/5/2020
+#### US Model Stats - includes data up to an including 4/6/2020
 
 It is not clear that the US has passed an inflection point, so expect the model to be highly variable.
 
 <img src="US Logistic Model, US Data composite.png" width="800px">
 
-> a = 4.262000775665121 +/- 0.1267105012863894
+> a = 4.32173083595976 +/- 0.060811615077030805
 > 
-> b = 18.695877722199768 +/- 0.1456335822160384
+> b = 71.44997631143679 +/- 0.1835188398355165
 > 
-> c = 67750.98784753274 +/- 285.9425334842547
+> c = 523229.08971364785 +/- 10147.781728555801
 > 
-> errors [0.1267105012863894, 0.1456335822160384, 285.9425334842547]
+> errors [0.060811615077030805, 0.1835188398355165, 10147.781728555801]
 > 
-> Expected number of infected people at infection end: 67750.99 +/- 285.> 
-> 94
+> Expected number of infected people at infection end: 523229.09 +/- 0.18
 > 
-> Infection peak in days from start: 18.7 +/- 0.15
+> Infection peak in days from start: 71.45 +/- 0.18
 > 
-> infection_peak_date 2020-02-09T00:00:00.000000000
+> us_inflection_date 2020-04-02T00:00:00.000000000
 > 
-> infection_peak_date_string
+> us_inflection_date_string 2020-04-02
 > 
-> days end 66
+> days end 138
 > 
-> infection_end_date_string 2020-03-28
+> infection_end_date_string 2020-06-03
 
 #### Daily Percent Change in US Cases
 
