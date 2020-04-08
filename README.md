@@ -4,7 +4,7 @@ Data science experiments with Johns Hopkins COVID-19 dataset
 
 Jay Urbain, PhD
 
-Last update: 4/7/2020
+Last update: 4/8/2020
 
 <img src="logistic_modeling.png" width="800px">
 
@@ -18,35 +18,36 @@ The models for the three countries are then scaled to the U.S. population and al
 
 Graphing these projections together demonstrates how the U.S. compares to benchmark regions, to help give more clarity in what the U.S. path going forward might look like.
 
-#### Model Trajectories - includes data up to an including 4/6/2020
+#### Model Trajectories - includes data up to an including 4/7/2020
 
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
 
-#### US Model Stats - includes data up to an including 4/6/2020
+#### US Model Stats - includes data up to an including 4/7/2020
 
 It is not clear that the US has passed an inflection point, so expect the model to be highly variable.
 
 <img src="US Logistic Model, US Data composite.png" width="800px">
 
-> a = 4.32173083595976 +/- 0.060811615077030805
+> a = 4.396053891095651 +/- 0.05716763532097362
 > 
-> b = 71.44997631143679 +/- 0.1835188398355165
+> b = 71.75651212056971 +/- 0.1614830147383091
 > 
-> c = 523229.08971364785 +/- 10147.781728555801
+> c = 541774.5192108923 +/- 8846.680898604533
 > 
-> errors [0.060811615077030805, 0.1835188398355165, 10147.781728555801]
+> errors [0.05716763532097362, 0.1614830147383091, 8846.680898604533]
 > 
-> Expected number of infected people at infection end: 523229.09 +/- 0.18
+> Expected number of infected people at infection end: 541774.52 +/- 0.16
 > 
-> Infection peak in days from start: 71.45 +/- 0.18
+> Infection peak in days from start: 71.76 +/- 0.16
 > 
 > us_inflection_date 2020-04-02T00:00:00.000000000
 > 
 > us_inflection_date_string 2020-04-02
 > 
-> days end 138
+> days end 132
 > 
-> infection_end_date_string 2020-06-03
+> infection_end_date_string 2020-06-10
+
 
 #### Daily Percent Change in US Cases
 
