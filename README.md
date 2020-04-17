@@ -5,7 +5,7 @@ Data science experiments with Johns Hopkins COVID-19 dataset
 Jay Urbain, PhD
 
 Last update: 4/16/2020
-
+7
 <img src="logistic_modeling.png" width="800px">
 
 <img src="logistic_function.png" width="800px">
@@ -18,35 +18,35 @@ The models for the three countries are then scaled to the U.S. population and al
 
 Graphing these projections together demonstrates how the U.S. compares to benchmark regions, to help give more clarity in what the U.S. path going forward might look like.
 
-#### Model Trajectories - includes data up to an including 4/15/2020
+#### Model Trajectories - includes data up to an including 4/16/2020
 
 <img src="Projections for US Cases following the South Korea, Hubei Province (China), and Italy Trajectories.png" width="800px">
 
-#### US Model Stats - includes data up to an including 4/15/2020
+#### US Model Stats - includes data up to an including 4/16/2020
 
 It is not clear that the US has passed an inflection point, so expect the model to be highly variable.
 
 <img src="US Logistic Model, US Data composite.png" width="800px">
 
-> a = 5.2881558300462865 +/- 0.0744043547677932
+> a = 5.416614519602671 +/- 0.08032027191834028
 > 
-> b = 74.916126334516 +/- 0.1557983706321309
+> b = 75.3030913616719 +/- 0.16407633709031266
 > 
-> c = 734087.8284438062 +/- 8438.821536775666
+> c = 757224.2120717715 +/- 8844.565743665877
 > 
-> errors [0.0744043547677932, 0.1557983706321309, 8438.821536775666]
+> errors [0.08032027191834028, 0.16407633709031266, 8844.565743665877]
 > 
-> Expected number of infected people at infection end: 734087.83 +/- 0.16
+> Expected number of infected people at infection end: 757224.21 +/- 0.16
 > 
-> Infection peak in days from start: 74.92 +/- 0.16
+> Infection peak in days from start: 75.3 +/- 0.16
 > 
-> us_inflection_date 2020-04-05T00:00:00.000000000
+> us_inflection_date 2020-04-06T00:00:00.000000000
 > 
-> us_inflection_date_string 2020-04-05
+> us_inflection_date_string 2020-04-06
 > 
-> days end 147
+> days end 157
 > 
-> infection_end_date_string 2020-07-01
+> infection_end_date_string 2020-06-28
 
 #### Daily Percent Change in US Cases
 
@@ -59,6 +59,10 @@ reported each day will start to decrease.
 #### S. Korea Piecewise Logistic-Quadratic Model, South Korea Data
 
 <img src="Piecewise Logistic-Quadratic Model South Korea.png" width="600px">
+
+#### Italy Piecewise Logistic-Quadratic Model, Italy Data
+
+<img src="Piecewise Logistic-Quadratic Model Italy.png" width="600px">
 
 #### S. Korea, China Hubei, and Italy Models Scaled for US Population
 
