@@ -4,13 +4,23 @@ Data science experiments with Johns Hopkins COVID-19 dataset
 
 Jay Urbain, PhD
 
-Last update: 4/16/2020
-7
-<img src="logistic_modeling.png" width="800px">
-
-<img src="logistic_function.png" width="800px">
+Last update: 4/19/2020
 
 The spread of a pathogen can start out slowly, but as larger numbers of the susceptible population become infected, the number of infected experiences exponential growth. Eventually this growth levels off as the size of the susceptible population decreases and the populations of the infected and recovered increase.
+
+<img src="logistic_modeling.png" width="800px">
+
+This can be modeled with variations of logistic (sigmoid) functions.
+
+<img src="US Sigmoid Models, US Data composite.png" width="800px">
+
+<img src="logistic_model.png" width="800px">
+
+<img src="gompertz_model.png" width="800px">
+
+<img src="roberts_model.png" width="800px">
+
+<img src="exponential_model.png" width="800px">
 
 Data from the reference regions (Italy, South Korea, and Hubei province China) are each fitted with a logistic function beginning on the day of the 100th confirmed case in that country.  
 
@@ -28,25 +38,25 @@ It is not clear that the US has passed an inflection point, so expect the model 
 
 <img src="US Logistic Model, US Data composite.png" width="800px">
 
-> a = 5.416614519602671 +/- 0.08032027191834028
+> a = 5.723545327454563 +/- 0.09867448774473674
 > 
-> b = 75.3030913616719 +/- 0.16407633709031266
+> b = 76.20332533295135 +/- 0.1953938340178228
 > 
-> c = 757224.2120717715 +/- 8844.565743665877
+> c = 811245.4053859087 +/- 10516.99660963606
 > 
-> errors [0.08032027191834028, 0.16407633709031266, 8844.565743665877]
+> errors [0.09867448774473674, 0.1953938340178228, 10516.99660963606]
 > 
-> Expected number of infected people at infection end: 757224.21 +/- 0.16
+> Expected number of infected people at infection end: 811245.41 +/- 0.2
 > 
-> Infection peak in days from start: 75.3 +/- 0.16
+> Infection peak in days from start: 76.2 +/- 0.2
 > 
-> us_inflection_date 2020-04-06T00:00:00.000000000
+> us_inflection_date 2020-04-07T00:00:00.000000000
 > 
-> us_inflection_date_string 2020-04-06
+> us_inflection_date_string 2020-04-07
 > 
-> days end 157
+> days end 159
 > 
-> infection_end_date_string 2020-06-28
+> infection_end_date_string 2020-07-12
 
 #### Daily Percent Change in US Cases
 
