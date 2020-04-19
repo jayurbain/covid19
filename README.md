@@ -8,8 +8,6 @@ Last update: 4/19/2020
 
 The spread of a pathogen can start out slowly, but as larger numbers of the susceptible population become infected, the number of infected experiences exponential growth. Eventually this growth levels off as the size of the susceptible population decreases and the populations of the infected and recovered increase.
 
-<img src="logistic_modeling.png" width="800px">
-
 This can be modeled with variations of logistic (sigmoid) functions.
 
 <img src="US Sigmoid Models, US Data composite.png" width="800px">
